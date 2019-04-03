@@ -1,5 +1,5 @@
-## Bonjour sur le site officiel de notre projet
-Nous sommes fières de vous présenter notre projet, un émulateur M68 k. Le code source n'est pas visible pour le moment, en effet le projet est encore en bêta. Si vous voulez proposer des fonctionnalités nésiter pas à utiliser [l'interface github](https://github.com/08A/08A.github.io/issues) de cette repository.
+## Bienvenue sur le site officiel de notre projet
+Nous sommes fières de vous présenter notre projet, un émulateur M68 k. Le code source n'est pas visible pour le moment. En effet le projet est encore en bêta. Si vous voulez proposer de nouvelles fonctionnalités, nésitez pas à utiliser [l'interface github](https://github.com/08A/08A.github.io/issues) de ce repository.
 
 
 ### Membre de ce projet
@@ -16,7 +16,7 @@ git clone <url>
 cd Emulator-68k/
 ```
 
-2. Test unitaire 
+2. Tests unitaires 
 ```bash
 make unit_test
 ./target/build/unit_test
