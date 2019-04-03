@@ -1,5 +1,6 @@
 ## Bonjour sur le site officiel de notre projet
-L'émulateur le code source n'est pas visible pour le moment, en effet nous somme encore en beta. Si vous voulez proposez des fonctionalité nésiter pas a utiliser [l'interface github](https://github.com/08A/08A.github.io/issues) de cette repository.
+Nous sommes fières de vous présenter notre projet, un émulateur M68 k. Le code source n'est pas visible pour le moment, en effet le projet est encore en bêta. Si vous voulez proposer des fonctionnalités nésiter pas à utiliser [l'interface github](https://github.com/08A/08A.github.io/issues) de cette repository.
+
 
 ### Membre de ce projet
 - [David Oiknine](https://github.com/davidoiknine)
